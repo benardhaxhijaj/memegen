@@ -3,7 +3,7 @@ const Header = () => {
     <header className="header-div">
       <img src="./src/img/troll.png" />
       <h2>Meme Generator</h2>
-      <span>React Course - Project 3</span>
+      <h4>React Course - Project 3</h4>
     </header>
   );
 };
